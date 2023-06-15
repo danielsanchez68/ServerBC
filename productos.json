@@ -1,0 +1,26 @@
+[
+	{
+		"id": 2,
+		"nombre": "Mouse",
+		"precio": 111,
+		"stock": 11
+	},
+	{
+		"nombre": "Memoria DDR 2",
+		"precio": 888,
+		"stock": 333,
+		"id": 5
+	},
+	{
+		"nombre": "TV2",
+		"precio": 6677,
+		"stock": 33,
+		"id": 6
+	},
+	{
+		"nombre": "TV3",
+		"precio": 6677,
+		"stock": 55,
+		"id": 7
+	}
+]
